@@ -181,7 +181,7 @@ async def start(client:Client, message):
                             InlineKeyboardButton('Aʙᴏᴜᴛ 💌', callback_data=f'about')
                         ],[
                             InlineKeyboardButton('Backup Channel',url=f"https://t.me/Cinemaghar_Backup"),
-                            InlineKeyboardButton('Rᴇғᴇʀ ⚜️', callback_data="reffff")
+                            InlineKeyboardButton('Bot Update ⚜️',Url="https://t.me/Appuuubotz")
                         ],[
                             InlineKeyboardButton('Mᴏsᴛ Sᴇᴀʀᴄʜ 🔍', callback_data="mostsearch"),
                             InlineKeyboardButton('Tᴏᴘ Tʀᴇɴᴅɪɴɢ ⚡', callback_data="trending")
@@ -209,8 +209,8 @@ async def start(client:Client, message):
                             InlineKeyboardButton("Hᴇʟᴘ ⚙️", callback_data='features'),
                             InlineKeyboardButton('Aʙᴏᴜᴛ 💌', callback_data=f'about')
                         ],[
-                            InlineKeyboardButton('InlineKeyboardButton('Backup Channel',url=f"https://t.me/Cinemaghar_Backup'),
-                            InlineKeyboardButton('Rᴇғᴇʀ ⚜️', callback_data="reffff")
+                            InlineKeyboardButton('Backup Channel',url=f"https://t.me/Cinemaghar_Backup'),
+                            InlineKeyboardButton('Bot update⚜️',Url="https://t.me/Appuuubotz")
                         ],[
                             InlineKeyboardButton('Mᴏsᴛ Sᴇᴀʀᴄʜ 🔍', callback_data="mostsearch"),
                             InlineKeyboardButton('Tᴏᴘ Tʀᴇɴᴅɪɴɢ ⚡', callback_data="trending")
@@ -271,8 +271,8 @@ async def start(client:Client, message):
                             InlineKeyboardButton("Hᴇʟᴘ ⚙️", callback_data='features'),
                             InlineKeyboardButton('Aʙᴏᴜᴛ 💌', callback_data=f'about')
                         ],[
-                            InlineKeyboardButton('Pʀᴇᴍɪᴜᴍ 🎫', callback_data='seeplans'),
-                            InlineKeyboardButton('Rᴇғᴇʀ ⚜️', callback_data="reffff")
+                            InlineKeyboardButton('Backup Channel', Url='https://t.me/Cinemaghar_Backup'),
+                            InlineKeyboardButton('Bot Update ⚜️', Url="https://t.me/Appuuubotz")
                         ],[
                             InlineKeyboardButton('Mᴏsᴛ Sᴇᴀʀᴄʜ 🔍', callback_data="mostsearch"),
                             InlineKeyboardButton('Tᴏᴘ Tʀᴇɴᴅɪɴɢ ⚡', callback_data="trending")
